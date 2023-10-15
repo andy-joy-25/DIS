@@ -35,9 +35,9 @@ Moodle | Midterm, Quizzes, Final Exam [[link](https://moodle.epfl.ch/course/view
 | Week | Date      | Exam (TBA)  | Area                        | Material                                                           |
 |:----:|:---------:|:-----------:|:----------------------------|:-------------------------------------------------------------------|
 | 1    | 21/09     | -           |                             | Course overview [[slides][1p], [lecture][1v]] |
-| 2    | 28/09     | -           | Information Retrieval       | Basic Information Retrieval [[slides][2p]]|
-| 3    | 05/10     | -           |                             | Embedding techniques [[slides][3p]] |
-| 4    | 12/10     | -           |                             | Embedding techniques|
+| 2    | 28/09     | -           | Information Retrieval       | Basic Information Retrieval [[slides][2p], [lecture][2v]]|
+| 3    | 05/10     | -           |                             | Embedding techniques [[slides][3p], [lecture][3v]] |
+| 4    | 12/10     | -           |                             | Embedding techniques [[slides][4p], [lecture][4v]] |
 | 5    | 19/10     | -           | Recommender Systems         | Recommender Systems  |
 | 6    | 26/10     | -           | Information Extraction      | Named Entity Recognition  |
 | 7    | 2/11      | -           |                             | Document Classification  |
@@ -53,7 +53,7 @@ Moodle | Midterm, Quizzes, Final Exam [[link](https://moodle.epfl.ch/course/view
 
 ## Projects [[video](https://mediaspace.epfl.ch/media/Projects+Presenation+%26+Logistics/0_rzxy388h)]
 During the semester, you will need to implement 4 graded projects, regarding the following topics:
-- P1: Text Retrieval
+- P1: Text Retrieval 
 - P2: Recommender Systems
 - P3: Named Entity Linking
 - P4: Relation Extraction
@@ -66,7 +66,7 @@ During the semester, you will need to implement 4 graded projects, regarding the
 - A **2-page report** of each project should be submitted in Moodle.
 - Details for each project will be released for each project respectively.
 
-#### P1: Text Retrieval
+#### P1: Text Retrieval [[video](https://mediaspace.epfl.ch/media/P1+Presentation/0_8jf49auh/29734)]
 Release Date: **25 Sept**
 
 Presentation Date: **28 Sept**, 12-13:00 (during lab session)
@@ -138,8 +138,8 @@ Please contact us for any organisational questions or questions related to the c
 [1p]:https://github.com/LSIR/DIS/blob/master/Lectures/week%201
 [2p]:https://github.com/LSIR/DIS/blob/master/Lectures/week%202
 [3p]:https://github.com/LSIR/DIS/blob/master/Lectures/week%203
-<!-- [4p]:https://github.com/LSIR/DIS/blob/master/Lectures/week%204
-[5p]:https://github.com/LSIR/DIS/blob/master/Lectures/week%205
+[4p]:https://github.com/LSIR/DIS/blob/master/Lectures/week%204
+<!-- [5p]:https://github.com/LSIR/DIS/blob/master/Lectures/week%205
 [6p]:https://github.com/LSIR/DIS/blob/master/Lectures/week%206
 [7p]:https://github.com/LSIR/DIS/blob/master/Lectures/week%207
 [8p]:https://github.com/LSIR/DIS/blob/master/Lectures/week%208
@@ -147,10 +147,13 @@ Please contact us for any organisational questions or questions related to the c
 [10p]:https://github.com/LSIR/DIS/blob/master/Lectures/week%2010
 [11p]:https://github.com/LSIR/DIS/blob/master/Lectures/week%2011
 [12p]:https://github.com/LSIR/DIS/blob/master/Lectures/week%2012
-[13p]:https://github.com/LSIR/DIS/blob/master/Lectures/week%2013
-[14p]:https://github.com/LSIR/DIS/blob/master/Lectures/week%2014 -->
+[13p]:https://github.com/LSIR/DIS/blob/master/Lectures/week%2013 -->
+<!-- [14p]:https://github.com/LSIR/DIS/blob/master/Lectures/week%2014 -->
 
 [1v]:https://mediaspace.epfl.ch/media/DIS++-+Week+1/0_du781bni
+[2v]:https://mediaspace.epfl.ch/media/DIS+-+Week+2/0_jxhlt3x3/29734
+[3v]:https://mediaspace.epfl.ch/media/DIS+-+Week+3/0_43fqnsoo/29734
+[4v]:https://mediaspace.epfl.ch/media/DIS+-+Week+4/0_e58heko5/29734
 
 <!-- [1l]:https://github.com/LSIR/DIS/blob/master/Exercises/week%201 -->
 <!-- [2l]:https://github.com/LSIR/DIS/blob/master/Exercises/week%202
