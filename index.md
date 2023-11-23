@@ -39,11 +39,11 @@ Moodle | Midterm, Quizzes, Final Exam [[link](https://moodle.epfl.ch/course/view
 | 3    | 05/10     | -           |                             | Embedding techniques [[slides][3p], [lecture][3v]] |
 | 4    | 12/10     | -           |                             | Embedding techniques [[slides][4p], [lecture][4v]] |
 | 5    | 19/10     | -           | Recommender Systems         | Recommender Systems [[slides][5p], [lecture][5v]]  |
-| 6    | 26/10     | -           | Information Extraction      | Named Entity Recognition  |
-| 7    | 2/11      | -           |                             | Document Classification  |
-| 8    | 9/11      | -           |                             | Knowledge Representation  |
-| 9    | 16/11     | -           |                             | Information Extraction  |
-| 10   | 23/11     | -           |                             | Taxonomy induction  |
+| 6    | 26/10     | -           | Information Extraction      | Named Entity Recognition  [[slides][6p], [lecture][6v]] |
+| 7    | 2/11      | -           |                             | Document Classification  [[slides][7p], [lecture][7v]]|
+| 8    | 9/11      | -           |                             | Graph Mining  [[slides][8p], [lecture][8v]]|
+| 9    | 16/11     | -           |                             | Information Extraction [[slides][9p], [lecture][9v]]|
+| 10   | 23/11     | -           |                             | Taxonomy Induction  [[slides][10p]]|
 | 11   | 30/11     | -           | Graph Analytics             | Link-based Ranking  |
 | 12   | 7/12      | -           |                             | Knowledge Inferences  |
 | 13   | 14/12     | -           | Data Indexing and mining    | Indexing for Information retrival  |
@@ -140,14 +140,14 @@ Please contact us for any organisational questions or questions related to the c
 [3p]:https://github.com/LSIR/DIS/blob/master/Lectures/week%203
 [4p]:https://github.com/LSIR/DIS/blob/master/Lectures/week%204
 [5p]:https://github.com/LSIR/DIS/blob/master/Lectures/week%205
-<!-- [6p]:https://github.com/LSIR/DIS/blob/master/Lectures/week%206
+[6p]:https://github.com/LSIR/DIS/blob/master/Lectures/week%206
 [7p]:https://github.com/LSIR/DIS/blob/master/Lectures/week%207
 [8p]:https://github.com/LSIR/DIS/blob/master/Lectures/week%208
 [9p]:https://github.com/LSIR/DIS/blob/master/Lectures/week%209
 [10p]:https://github.com/LSIR/DIS/blob/master/Lectures/week%2010
-[11p]:https://github.com/LSIR/DIS/blob/master/Lectures/week%2011
-[12p]:https://github.com/LSIR/DIS/blob/master/Lectures/week%2012
-[13p]:https://github.com/LSIR/DIS/blob/master/Lectures/week%2013 -->
+<!-- [11p]:https://github.com/LSIR/DIS/blob/master/Lectures/week%2011 -->
+<!-- [12p]:https://github.com/LSIR/DIS/blob/master/Lectures/week%2012 -->
+<!-- [13p]:https://github.com/LSIR/DIS/blob/master/Lectures/week%2013 -->
 <!-- [14p]:https://github.com/LSIR/DIS/blob/master/Lectures/week%2014 -->
 
 [1v]:https://mediaspace.epfl.ch/media/DIS++-+Week+1/0_du781bni
@@ -155,6 +155,10 @@ Please contact us for any organisational questions or questions related to the c
 [3v]:https://mediaspace.epfl.ch/media/DIS+-+Week+3/0_43fqnsoo/29734
 [4v]:https://mediaspace.epfl.ch/media/DIS+-+Week+4/0_e58heko5/29734
 [5v]:https://mediaspace.epfl.ch/media/DIS+-+Week+5/0_dv826nq6/29734
+[6v]:https://mediaspace.epfl.ch/media/DIS+-+Week+6/0_5y9q7cjm/29734
+[7v]:https://mediaspace.epfl.ch/media/DIS++-+Week+7/0_e5szz3qp/29734
+[8v]:https://mediaspace.epfl.ch/media/DIS+-+Week+8/0_t7phnw8c/29734
+[9v]:https://mediaspace.epfl.ch/media/DIS+-+Week+9/0_11u9eyqc/29734
 
 <!-- [1l]:https://github.com/LSIR/DIS/blob/master/Exercises/week%201 -->
 <!-- [2l]:https://github.com/LSIR/DIS/blob/master/Exercises/week%202
