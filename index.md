@@ -43,11 +43,11 @@ Moodle | Midterm, Quizzes, Final Exam [[link](https://moodle.epfl.ch/course/view
 | 7    | 2/11      | -           |                             | Document Classification  [[slides][7p], [lecture][7v]]|
 | 8    | 9/11      | -           |                             | Graph Mining  [[slides][8p], [lecture][8v]]|
 | 9    | 16/11     | -           |                             | Information Extraction [[slides][9p], [lecture][9v]]|
-| 10   | 23/11     | -           |                             | Taxonomy Induction  [[slides][10p]]|
-| 11   | 30/11     | -           | Graph Analytics             | Link-based Ranking  |
-| 12   | 7/12      | -           |                             | Knowledge Inferences  |
-| 13   | 14/12     | -           | Data Indexing and mining    | Indexing for Information retrival  |
-| 14   | 21/12     | -           |                             | Association Rule Mining  |
+| 10   | 23/11     | -           |                             | Taxonomy Induction  [[slides][10p], [lecture][10v]]|
+| 11   | 30/11     | -           | Graph Analytics             | Link-based Ranking  [[slides][11p], [lecture][11v]]|
+| 12   | 7/12      | -           |                             | Knowledge Inferences  [[slides][12p], [lecture][12v]]|
+| 13   | 14/12     | -           | Data Indexing and mining    | Indexing for Information retrival  [[slides][13p], [lecture][13v]]|
+| 14   | 21/12     | -           |                             | Association Rule Mining [[slides][14p]] |
 
 
 
@@ -78,21 +78,14 @@ Release Date: **23 Oct**
 
 Presentation Date: **26 Oct**, 12-13:00 (during lab session)]
 
-Deadline Date: **12 Nov**, 23:59.
+Deadline Date: **19 Nov**, 23:59.
 
 #### P3: Named Entity Linking
-Release Date: **13 Nov**
+Release Date: **20 Nov**
 
-Presentation Date: **16 Nov**, 12-13:00 (during lab session)
+Presentation Date: **23 Nov**, 12-13:00 (during lab session)
 
-Deadline Date: **3 Dec**, 23:59.
-
-#### P4: Relation Extraction
-Release Date: **4 Dec**
-
-Presentation Date: **7 Dec**, 12-13:00 (during lab session)
-
-Deadline Date: **24 Dec**, 23:59.
+Deadline Date: **22 Dec**, 23:59.
 
 ### Evaluation criteria
 - **40%:**  Results - Metrics   [Comparison with baselines]
@@ -109,14 +102,13 @@ Exercises are **NOT graded**. We have released exercises for all topics covered 
 
 Exercises / Lab sessions will be allocated for questions regarding the Projects.
 
-## Final Exam (TBA)
+## Final Exam
 
-<!-- ### Exercises Session format (In-person):
-- TAs will provide a small discussion over the **last week's exercises**, answering any questions and explaining the solutions. _(10-15mins)_
-- TAs will present **this week's exercise**. _(5mins)_ 
-- Students will be solving this week's exercises and TAs will provide answers and clarification if needed.
-_**Note**: Please make sure you have already done the setup prerequisites to run the coding parts of the exercises. You can find the instructions [here](https://github.com/LSIR/DIS/tree/master/Exercises/setup)._ -->
+📅 **Date:** Tuesday, Jan 30 (30.01.2024)
 
+🕒 **When:** From 15h15 to 18h15
+
+📍 **Where:** PO01
 
 
 ## Communication Guidelines
@@ -145,10 +137,10 @@ Please contact us for any organisational questions or questions related to the c
 [8p]:https://github.com/LSIR/DIS/blob/master/Lectures/week%208
 [9p]:https://github.com/LSIR/DIS/blob/master/Lectures/week%209
 [10p]:https://github.com/LSIR/DIS/blob/master/Lectures/week%2010
-<!-- [11p]:https://github.com/LSIR/DIS/blob/master/Lectures/week%2011 -->
-<!-- [12p]:https://github.com/LSIR/DIS/blob/master/Lectures/week%2012 -->
-<!-- [13p]:https://github.com/LSIR/DIS/blob/master/Lectures/week%2013 -->
-<!-- [14p]:https://github.com/LSIR/DIS/blob/master/Lectures/week%2014 -->
+[11p]:https://github.com/LSIR/DIS/blob/master/Lectures/week%2011
+[12p]:https://github.com/LSIR/DIS/blob/master/Lectures/week%2012
+[13p]:https://github.com/LSIR/DIS/blob/master/Lectures/week%2013
+[14p]:https://github.com/LSIR/DIS/blob/master/Lectures/week%2014
 
 [1v]:https://mediaspace.epfl.ch/media/DIS++-+Week+1/0_du781bni
 [2v]:https://mediaspace.epfl.ch/media/DIS+-+Week+2/0_jxhlt3x3/29734
@@ -159,6 +151,10 @@ Please contact us for any organisational questions or questions related to the c
 [7v]:https://mediaspace.epfl.ch/media/DIS++-+Week+7/0_e5szz3qp/29734
 [8v]:https://mediaspace.epfl.ch/media/DIS+-+Week+8/0_t7phnw8c/29734
 [9v]:https://mediaspace.epfl.ch/media/DIS+-+Week+9/0_11u9eyqc/29734
+[10v]:https://mediaspace.epfl.ch/media/DIS+-+Week+10/0_7nu7640p/29734
+[11v]:https://mediaspace.epfl.ch/media/DIS+-+Week+11/0_0wt0hvfa/29734
+[12v]:https://mediaspace.epfl.ch/media/DIS+-+Week+12/0_h2vma9g1/29734
+[13v]:https://mediaspace.epfl.ch/media/DIS+-+Week+13/0_f5siltb2/29734
 
 <!-- [1l]:https://github.com/LSIR/DIS/blob/master/Exercises/week%201 -->
 <!-- [2l]:https://github.com/LSIR/DIS/blob/master/Exercises/week%202
